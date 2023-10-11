@@ -1,0 +1,40 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\p4vroot\\droneracer\\droneracer_52_0g\\plugins\\gamefeatures\\dronracegamefeature_yulan\\source\\dronracegamefeature_yulanruntime\\private\\tracksplineactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\p4vroot\\droneracer\\droneracer_52_0g\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\p4vroot\\droneracer\\droneracer_52_0g\\plugins\\gamefeatures\\dronracegamefeature_yulan\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dronracegamefeature_yulanruntime\\definitions.dronracegamefeature_yulanruntime.h",
+            "d:\\p4vroot\\droneracer\\droneracer_52_0g\\plugins\\gamefeatures\\dronracegamefeature_yulan\\source\\dronracegamefeature_yulanruntime\\public\\tracksplineactor.h",
+            "d:\\p4vroot\\droneracer\\droneracer_52_0g\\plugins\\gamefeatures\\dronracegamefeature_yulan\\intermediate\\build\\win64\\unrealeditor\\inc\\dronracegamefeature_yulanruntime\\uht\\tracksplineactor.generated.h",
+            "d:\\unreal\\ue_5.2\\engine\\source\\runtime\\landscape\\classes\\landscapesplinecontrolpoint.h",
+            "d:\\unreal\\ue_5.2\\engine\\source\\runtime\\landscape\\classes\\landscapesplinesegment.h",
+            "d:\\unreal\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\components\\splinemeshcomponent.h",
+            "d:\\unreal\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\splinemeshcomponent.generated.h",
+            "d:\\unreal\\ue_5.2\\engine\\source\\runtime\\landscape\\classes\\landscapesplinescomponent.h",
+            "d:\\unreal\\ue_5.2\\engine\\source\\runtime\\landscape\\classes\\landscapeinfo.h",
+            "d:\\unreal\\ue_5.2\\engine\\source\\runtime\\landscape\\classes\\ilandscapesplineinterface.h",
+            "d:\\unreal\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\landscape\\uht\\ilandscapesplineinterface.generated.h",
+            "d:\\unreal\\ue_5.2\\engine\\source\\runtime\\engine\\public\\worldpartition\\worldpartitionhandle.h",
+            "d:\\unreal\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\landscape\\uht\\landscapeinfo.generated.h",
+            "d:\\unreal\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\landscape\\uht\\landscapesplinescomponent.generated.h",
+            "d:\\unreal\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\landscape\\uht\\landscapesplinesegment.generated.h",
+            "d:\\unreal\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\landscape\\uht\\landscapesplinecontrolpoint.generated.h",
+            "d:\\unreal\\ue_5.2\\engine\\source\\runtime\\landscape\\classes\\landscapeproxy.h",
+            "d:\\unreal\\ue_5.2\\engine\\source\\runtime\\landscape\\classes\\landscapenanitecomponent.h",
+            "d:\\unreal\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\landscape\\uht\\landscapenanitecomponent.generated.h",
+            "d:\\unreal\\ue_5.2\\engine\\source\\runtime\\landscape\\classes\\landscapeweightmapusage.h",
+            "d:\\unreal\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\landscape\\uht\\landscapeweightmapusage.generated.h",
+            "d:\\unreal\\ue_5.2\\engine\\source\\runtime\\landscape\\classes\\landscapeheightfieldcollisioncomponent.h",
+            "d:\\unreal\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\landscape\\uht\\landscapeheightfieldcollisioncomponent.generated.h",
+            "d:\\unreal\\ue_5.2\\engine\\source\\runtime\\engine\\public\\actorpartition\\partitionactor.h",
+            "d:\\unreal\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\partitionactor.generated.h",
+            "d:\\unreal\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\landscape\\uht\\landscapeproxy.generated.h",
+            "d:\\unreal\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\components\\splinecomponent.h",
+            "d:\\unreal\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\splinecomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

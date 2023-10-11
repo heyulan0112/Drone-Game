@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\p4vroot\\droneracer\\droneracer_52_0g\\plugins\\gamefeatures\\dronracegamefeature_yulan\\source\\dronracegamefeature_yulanruntime\\private\\projectile.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\p4vroot\\droneracer\\droneracer_52_0g\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\p4vroot\\droneracer\\droneracer_52_0g\\plugins\\gamefeatures\\dronracegamefeature_yulan\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dronracegamefeature_yulanruntime\\definitions.dronracegamefeature_yulanruntime.h",
+            "d:\\p4vroot\\droneracer\\droneracer_52_0g\\plugins\\gamefeatures\\dronracegamefeature_yulan\\source\\dronracegamefeature_yulanruntime\\public\\projectile.h",
+            "d:\\p4vroot\\droneracer\\droneracer_52_0g\\plugins\\gamefeatures\\dronracegamefeature_yulan\\intermediate\\build\\win64\\unrealeditor\\inc\\dronracegamefeature_yulanruntime\\uht\\projectile.generated.h",
+            "d:\\unreal\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "d:\\unreal\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\unreal\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "d:\\unreal\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\spherecomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

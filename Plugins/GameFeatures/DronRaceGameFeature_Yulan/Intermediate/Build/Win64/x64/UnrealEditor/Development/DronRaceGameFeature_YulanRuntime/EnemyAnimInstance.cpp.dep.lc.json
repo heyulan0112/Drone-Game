@@ -1,0 +1,25 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\p4vroot\\droneracer\\droneracer_52_0g\\plugins\\gamefeatures\\dronracegamefeature_yulan\\source\\dronracegamefeature_yulanruntime\\private\\enemyaniminstance.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\p4vroot\\droneracer\\droneracer_52_0g\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\p4vroot\\droneracer\\droneracer_52_0g\\plugins\\gamefeatures\\dronracegamefeature_yulan\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dronracegamefeature_yulanruntime\\definitions.dronracegamefeature_yulanruntime.h",
+            "d:\\p4vroot\\droneracer\\droneracer_52_0g\\plugins\\gamefeatures\\dronracegamefeature_yulan\\source\\dronracegamefeature_yulanruntime\\public\\enemyaniminstance.h",
+            "d:\\p4vroot\\droneracer\\droneracer_52_0g\\plugins\\gamefeatures\\dronracegamefeature_yulan\\intermediate\\build\\win64\\unrealeditor\\inc\\dronracegamefeature_yulanruntime\\uht\\enemyaniminstance.generated.h",
+            "d:\\p4vroot\\droneracer\\droneracer_52_0g\\plugins\\gamefeatures\\dronracegamefeature_yulan\\source\\dronracegamefeature_yulanruntime\\public\\enemy.h",
+            "d:\\unreal\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\unreal\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\unreal\\ue_5.2\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "d:\\unreal\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "d:\\unreal\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "d:\\unreal\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\unreal\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "d:\\unreal\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "d:\\p4vroot\\droneracer\\droneracer_52_0g\\plugins\\gamefeatures\\dronracegamefeature_yulan\\intermediate\\build\\win64\\unrealeditor\\inc\\dronracegamefeature_yulanruntime\\uht\\enemy.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

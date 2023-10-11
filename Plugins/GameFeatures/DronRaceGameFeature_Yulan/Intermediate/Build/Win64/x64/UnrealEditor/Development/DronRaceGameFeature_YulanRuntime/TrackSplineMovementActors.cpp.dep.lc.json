@@ -1,0 +1,29 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\p4vroot\\droneracer\\droneracer_52_0g\\plugins\\gamefeatures\\dronracegamefeature_yulan\\source\\dronracegamefeature_yulanruntime\\private\\tracksplinemovementactors.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\p4vroot\\droneracer\\droneracer_52_0g\\intermediate\\build\\win64\\x64\\lyraeditor\\development\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\p4vroot\\droneracer\\droneracer_52_0g\\plugins\\gamefeatures\\dronracegamefeature_yulan\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dronracegamefeature_yulanruntime\\definitions.dronracegamefeature_yulanruntime.h",
+            "d:\\p4vroot\\droneracer\\droneracer_52_0g\\plugins\\gamefeatures\\dronracegamefeature_yulan\\source\\dronracegamefeature_yulanruntime\\public\\tracksplinemovementactors.h",
+            "d:\\p4vroot\\droneracer\\droneracer_52_0g\\plugins\\gamefeatures\\dronracegamefeature_yulan\\source\\dronracegamefeature_yulanruntime\\public\\splinemovementactors.h",
+            "d:\\unreal\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\components\\timelinecomponent.h",
+            "d:\\unreal\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\timelinecomponent.generated.h",
+            "d:\\p4vroot\\droneracer\\droneracer_52_0g\\plugins\\gamefeatures\\dronracegamefeature_yulan\\intermediate\\build\\win64\\unrealeditor\\inc\\dronracegamefeature_yulanruntime\\uht\\splinemovementactors.generated.h",
+            "d:\\p4vroot\\droneracer\\droneracer_52_0g\\plugins\\gamefeatures\\dronracegamefeature_yulan\\intermediate\\build\\win64\\unrealeditor\\inc\\dronracegamefeature_yulanruntime\\uht\\tracksplinemovementactors.generated.h",
+            "d:\\unreal\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "d:\\unreal\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "d:\\unreal\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\unreal\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "d:\\unreal\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "d:\\unreal\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "d:\\unreal\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "d:\\unreal\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "d:\\unreal\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "d:\\unreal\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystatics.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
